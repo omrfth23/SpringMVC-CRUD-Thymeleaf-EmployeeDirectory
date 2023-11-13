@@ -1,6 +1,6 @@
 # SpringMVC Thymeleaf CRUD Application
 
-This application contains a simple CRUD (Create, Read, Update, Delete) application created using SpringMVC and Thymeleaf. The application can perform basic CRUD operations in a database.
+This application contains a simple CRUD (Create, Read, Update, Delete) application created using SpringMVC and Thymeleaf. The application can perform basic CRUD operations in MySQL database.
 
 ## Getting Started
 
