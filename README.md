@@ -9,7 +9,7 @@ Clone the application to your local machine:
 ```bash
 git clone https://github.com/username/spring-mvc-thymeleaf-crud.git
 
-cd spring-mvc-thymeleaf-crud
+cd spring-boot-mvc-crud
 ```
 Requirements
 The following tools are needed to run the application:
