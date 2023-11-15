@@ -7,7 +7,7 @@ This application contains a simple CRUD (Create, Read, Update, Delete) applicati
 Clone the application to your local machine:
 
 ```bash
-git clone https://github.com/username/spring-mvc-thymeleaf-crud.git
+git clone [https://github.com/username/spring-mvc-thymeleaf-crud.git](https://github.com/omrfth23/SpringMVC-CRUD-Thymeleaf-EmployeeDirectory.git)
 
 cd spring-boot-mvc-crud
 ```
